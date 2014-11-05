@@ -88,7 +88,7 @@ Route::get('mysql-test', function() {
 });
 
 
-/*
+
 # /app/routes.php
 Route::get('/debug', function() {
 
@@ -135,4 +135,4 @@ Route::get('/debug', function() {
 
 });
 
-*/
+
